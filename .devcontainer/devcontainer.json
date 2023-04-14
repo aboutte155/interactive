@@ -32,16 +32,19 @@
   },
   // Add the IDs of extensions you want installed when the container is created.
   "extensions": [
-    "dbaeumer.vscode-eslint",
-    "ms-dotnettools.csharp",
-    "ms-dotnettools.dotnet-interactive-vscode",
-    "ms-python.python",
-    "ms-toolsai.jupyter",
-    "ms-toolsai.jupyter-keymap",
-    "ms-toolsai.jupyter-renderers",
-    "ms-vscode.powershell",
-    "ionide.ionide-fsharp"
-  ],
+	"dbaeumer.vscode-eslint",
+	"ms-dotnettools.csharp",
+	"ms-dotnettools.dotnet-interactive-vscode",
+	"ms-python.python",
+	"ms-toolsai.jupyter",
+	"ms-toolsai.jupyter-keymap",
+	"ms-toolsai.jupyter-renderers",
+	"ms-vscode.powershell",
+	"ionide.ionide-fsharp",
+	"Gimly81.matlab",
+	"ms-vscode-remote.remote-containers",
+	"salesforce.salesforcedx-vscode-core"
+],
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
   // "forwardPorts": [5000, 5001],
   // [Optional] To reuse of your local HTTPS dev cert:
